@@ -138,6 +138,7 @@ function gameOver() {
     correct = 0;
     incorrect = 0;
     timer = 10;
+    counter = 0;
 }
 
 
